@@ -35,6 +35,8 @@
     "browserify-versionify": "^1.0.6",
     "earcut": "^2.0.8",
     "eventemitter3": "^1.1.1",
+    "express": "^4.13.4",
+    "http-server": "^0.9.0",
     "object-assign": "^4.0.1",
     "resource-loader": "^1.6.4"
   },
